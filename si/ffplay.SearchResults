@@ -1,0 +1,2 @@
+---- avdevice_version Matches (1 in 1 files) ----
+avdevice.h (D:\work2016\ffplay\jni\include\libavdevice):unsigned avdevice_version(void);
